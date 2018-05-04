@@ -51,13 +51,13 @@ EB6B;twelveudash
 EC10;Orogate
 EC11;orogate
 #------- ZR private
-#E9A0;lgroup
-#E9A1;rgroup
+#E9A0;lgroup *27EE MATHEMATICAL LEFT FLATTENED PARENTHESIS
+#E9A1;rgroup *27EF MATHEMATICAL RIGHT FLATTENED PARENTHESIS
 E9A2;arrowvert
 E9A3;Arrowvert
 E9A4;bracevert
-#E9A5;lmoustache
-#E9A6;rmoustache
+#E9A5;lmoustache *23B0 UPPER LEFT OR LOWER RIGHT CURLY BRACKET SECTION
+#E9A6;rmoustache *23B1 UPPER RIGHT OR LOWER LEFT CURLY BRACKET SECTION
 E9A7;axisshort
 E9A8;arrowaxisright
 E9A9;arrowaxisleft
