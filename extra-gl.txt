@@ -72,8 +72,8 @@ E9C4;Cyrrdesc
 E9C5;cyrrdesc
 E9C6;Cyrmhk
 E9C7;cyrmhk
-E9C8;Cyrnlhk
-E9C9;cyrnlhk
+#E9C8;Cyrnlhk *0528 CYRILLIC CAPITAL LETTER EN WITH LEFT HOOK
+#E9C9;cyrnlhk *0529 CYRILLIC SMALL LETTER EN WITH LEFT HOOK
 E9CA;Cyrrhk
 E9CB;cyrrhk
 #------- end
