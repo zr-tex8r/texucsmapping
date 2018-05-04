@@ -51,13 +51,19 @@ EB6B;twelveudash
 EC10;Orogate
 EC11;orogate
 #------- ZR private
-E9A0;lgroup
-E9A1;rgroup
+#E9A0;lgroup
+#E9A1;rgroup
 E9A2;arrowvert
 E9A3;Arrowvert
 E9A4;bracevert
-E9A5;lmoustache
-E9A6;rmoustache
+#E9A5;lmoustache
+#E9A6;rmoustache
+E9A7;axisshort
+E9A8;arrowaxisright
+E9A9;arrowaxisleft
+E9AA;vartriangle
+E9AB;triangledown
+E9AC;varpropto
 E9C0;Cyrdelta
 E9C1;cyrdelta
 E9C2;Cyrsacrs
