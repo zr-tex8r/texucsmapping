@@ -34,7 +34,7 @@ EA15;Circumflex
 EA30;Dotaccent
 EA40;Ring
 EA44;Tilde
-EB0F;copyleft
+#EB0F;copyleft *1F12F COPYLEFT SYMBOL
 EB11;cwmascender
 EB12;cwmcapital
 EB28;S_S
